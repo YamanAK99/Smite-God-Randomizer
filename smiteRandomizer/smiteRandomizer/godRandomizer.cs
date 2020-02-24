@@ -8,13 +8,23 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/**
+ * This program will select a random god and create a random build for that god for a MOBA game called smite.
+ * 
+ * Author: Yaman Alkurdi
+ * 
+ */
+
 namespace smiteRandomizer
 {
     /**
+     * Planned Changes:
+     * 
+     * Further user interface customizations
      * Use XML file to save arrays
-     * add label to tell user where to start and one for role pick
-     * use inheritance
-     * create a class made of boleans for verification
+     * Add label to tell user where to start and one to let user know they can pick a specific role
+     * Use inheritance for the different roles and conditions
+     * Create a class made of boleans for verification
      */
     public partial class godRandomizer : Form
     {
