@@ -8,3 +8,13 @@ C:\Users\yaman\source\repos\smiteRandomizer\smiteRandomizer\obj\Debug\smiteRando
 C:\Users\yaman\source\repos\smiteRandomizer\smiteRandomizer\obj\Debug\smiteRandomizer.exe
 C:\Users\yaman\source\repos\smiteRandomizer\smiteRandomizer\obj\Debug\smiteRandomizer.pdb
 C:\Users\yaman\source\repos\smiteRandomizer\smiteRandomizer\obj\Debug\smiteRandomizer.godRandomizer.resources
+C:\Users\yaman\Documents\GitHub\Smite-God-Randomizer\smiteRandomizer\smiteRandomizer\bin\Debug\smiteRandomizer.exe.config
+C:\Users\yaman\Documents\GitHub\Smite-God-Randomizer\smiteRandomizer\smiteRandomizer\bin\Debug\smiteRandomizer.exe
+C:\Users\yaman\Documents\GitHub\Smite-God-Randomizer\smiteRandomizer\smiteRandomizer\bin\Debug\smiteRandomizer.pdb
+C:\Users\yaman\Documents\GitHub\Smite-God-Randomizer\smiteRandomizer\smiteRandomizer\obj\Debug\smiteRandomizer.csprojAssemblyReference.cache
+C:\Users\yaman\Documents\GitHub\Smite-God-Randomizer\smiteRandomizer\smiteRandomizer\obj\Debug\smiteRandomizer.godRandomizer.resources
+C:\Users\yaman\Documents\GitHub\Smite-God-Randomizer\smiteRandomizer\smiteRandomizer\obj\Debug\smiteRandomizer.Properties.Resources.resources
+C:\Users\yaman\Documents\GitHub\Smite-God-Randomizer\smiteRandomizer\smiteRandomizer\obj\Debug\smiteRandomizer.csproj.GenerateResource.cache
+C:\Users\yaman\Documents\GitHub\Smite-God-Randomizer\smiteRandomizer\smiteRandomizer\obj\Debug\smiteRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\yaman\Documents\GitHub\Smite-God-Randomizer\smiteRandomizer\smiteRandomizer\obj\Debug\smiteRandomizer.exe
+C:\Users\yaman\Documents\GitHub\Smite-God-Randomizer\smiteRandomizer\smiteRandomizer\obj\Debug\smiteRandomizer.pdb
